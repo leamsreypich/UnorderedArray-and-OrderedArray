@@ -3,10 +3,8 @@ import java.util.Arrays;
 /**
  * Tester
  *
- * FOR LOCAL TESTING ONLY - do NOT submit this file with your assignment.
- * The assignment explicitly says not to submit a class with a main method,
- * so keep this file out of your submission (only UnorderedArray.java and
- * OrderedArray.java should be turned in).
+ * FOR LOCAL TESTING ONLY.
+ * (only UnorderedArray.java and OrderedArray.java should be turned in).
  *
  * Run with:
  *   javac UnorderedArray.java OrderedArray.java Tester.java
