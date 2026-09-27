@@ -1,6 +1,6 @@
 # UnorderedArray & OrderedArray
 
-Java implementations of two array-based data structures — an **UnorderedArray** and an **OrderedArray** — supporting insertion, deletion, search, retrieval, size, and resizing.
+Java implementations of two array-based data structures: an **UnorderedArray** and an **OrderedArray** which support insertion, deletion, search, retrieval, size, and resizing.
 
 ## Files
 
