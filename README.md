@@ -10,9 +10,7 @@ Java implementations of two array-based data structures — an **UnorderedArray*
 | `OrderedArray.java` | Array class where elements are always kept in ascending sorted order. Slower insertion, binary-search lookups. |
 | `Tester.java` | Local test driver with a `main` method. **Not part of the assignment submission** and used only to verify both classes work correctly. |
 
-## API
-
-Both classes implement the same set of methods:
+## Both classes implement the same set of methods:
 
 | Method | Description | Time Complexity |
 |---|---|---|
