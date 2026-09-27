@@ -8,7 +8,7 @@ Java implementations of two array-based data structures: an **UnorderedArray** a
 |---|---|
 | `UnorderedArray.java` | Array class where elements are stored in no particular order. Fast insertion, linear-time search. |
 | `OrderedArray.java` | Array class where elements are always kept in ascending sorted order. Slower insertion, binary-search lookups. |
-| `Tester.java` | Local test driver with a `main` method. **Not part of the assignment submission** and used only to verify both classes work correctly. |
+| `Tester.java` | Local test driver with a `main` method and used only to verify both classes work correctly. |
 
 ## Both classes implement the same set of methods:
 
