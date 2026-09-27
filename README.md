@@ -39,5 +39,5 @@ java Tester
 
 `Tester.java` exercises insertion (including auto-resize), deletion, search, bounds-checked retrieval, and manual resizing for both classes, printing `[PASS]`/`[FAIL]` for each check.
 
-> **Note:** `Tester.java` contains a `main` method and must be excluded from the final assignment submission — only `UnorderedArray.java` and `OrderedArray.java` will be submitted.
+> **Note:** `Tester.java` contains a `main` method and must be excluded from the final assignment submission so only `UnorderedArray.java` and `OrderedArray.java` will be submitted.
 
